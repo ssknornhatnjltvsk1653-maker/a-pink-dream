@@ -8,3 +8,5 @@
 > Commits you push to the connected branch sync back to Lovable and show up in
 > the editor, so keep the branch in a working state.
 <!-- LOVABLE:END -->
+
+- Keep the apology experience as one continuous, single-route illustrated scroll using lightweight SVG/CSS artwork and optional Web Audio; this preserves continuity and mobile performance without external image dependencies.
